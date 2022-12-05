@@ -1,0 +1,13 @@
+{
+    "name": "labs/vis31",
+    "authors": [
+        {
+            "name": "Aleksey",
+            "email": "aKolesnichenko.reon@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.3",
+      "ext-json": "*"
+    }
+}
